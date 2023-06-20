@@ -34,7 +34,7 @@ export default function Navbar() {
                   <li className="nav-item">
                     <NavLink
                       className="nav-link"
-                      
+                      exact
                       activeclassname="active"
                       to="/"
                     >
