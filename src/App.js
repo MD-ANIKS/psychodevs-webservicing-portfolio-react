@@ -26,7 +26,7 @@ function App() {
         <Route exact path='/about' element={<Common title='Welcome to about page' visit='/contact' btn='Contact Here' img={aboutImg} />} />
         <Route exact path='/services' element={<Services/>} />
         <Route exact path="/contact" element={<Contact/>} />
-        <Route path="/*" element={<Navigate to='/' /> } /> 
+        <Route path="*" element={<Navigate to='/' /> } /> 
       </Routes>
 
       <Footer/>
