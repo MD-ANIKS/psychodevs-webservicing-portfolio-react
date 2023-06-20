@@ -1,24 +1,34 @@
-import logo from './logo.svg';
-import './App.css';
+
+import React from "react";
+import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
+import Navbar from './components/Navbar';
+import Common from './components/Common';
+import growImg from './images/grow.svg';
+import aboutImg from './images/about.svg';
+import Services from "./components/Services";
+
+import { Routes, Route } from 'react-router-dom';
+import Contact from "./components/Contact";
+import Footer from './components/Footer';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+
+      <Navbar/>
+
+      <Routes>
+        <Route exact path='/' element={<Common title='Grow your business with' visit='/services' btn='Get Started' img={growImg} />} />
+        <Route exact path='/about' element={<Common title='Welcome to about page' visit='/contact' btn='Contact Here' img={aboutImg} />} />
+        <Route exact path='/services' element={<Services/>} />
+        <Route exact path="/contact" element={<Contact/>} />
+      </Routes>
+
+      <Footer/>
+    
+    </>
   );
 }
 
