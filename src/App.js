@@ -5,7 +5,7 @@ import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
 import Navbar from './components/Navbar';
 import Common from './components/Common';
 import growImg from './images/grow.svg';
-import aboutImg from './images/about.svg';
+import aboutImg from '../src/images/about.svg';
 import Services from "./components/Services";
 
 import { Routes, Route, Navigate } from 'react-router-dom';
