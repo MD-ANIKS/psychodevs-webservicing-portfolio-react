@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+# Psychodevs Web Servicing Portfolio (React)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Psychodevs Web Servicing Portfolio repository! This repository showcases Psychodevs' expertise in web servicing and front-end development using React, Bootstrap, and Material-UI. The portfolio website is designed to be visually appealing, and responsive, and highlight Psychodevs' skills in creating stunning user interfaces.
 
-## Available Scripts
+## Live Website
 
-In the project directory, you can run:
+Check out the live version of the portfolio website [here]([https://md-aniks.github.io/psychodevs-webservicing-portfolio-react/]).
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **React**: The portfolio website is built using React, a popular JavaScript library for building user interfaces. React provides a component-based architecture that enables the creation of reusable and modular UI elements.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Bootstrap**: Bootstrap is utilized to enhance the responsiveness and visual appeal of the portfolio website. It provides a robust set of CSS and JavaScript components that aid in rapid website development.
 
-### `npm test`
+- **Material-UI**: Material-UI is another UI framework used in this portfolio, adding a touch of Material Design aesthetics to the user interface. It offers a rich collection of ready-to-use components and styles.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **SCSS**: The project has been enhanced with the integration of SCSS (Sassy CSS), a CSS preprocessor that extends the capabilities of traditional CSS. SCSS allows for nested selectors, variables, mixins, and more, simplifying the styling process and improving code maintainability.
 
-### `npm run build`
+## Getting Started
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To get a local copy of the portfolio website up and running, follow these steps:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. **Clone the repository**:
+   ```
+   git clone https://github.com/psychodevs/psychodevs-webservicing-portfolio-react.git
+   ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. **Install dependencies**:
+   ```
+   cd psychodevs-webservicing-portfolio-react
+   npm install
+   ```
 
-### `npm run eject`
+3. **Start the development server**:
+   ```
+   npm start
+   ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+   This command will start the local development server, and you can access the portfolio website in your browser at `http://localhost:3000`.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+4. **Explore and customize**:
+   Feel free to explore the codebase, make modifications, and customize the portfolio website to suit your requirements. The entry point for styling is the `index.scss` file, where you can leverage SCSS features to enhance the visual appearance of the website.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Contributing
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please feel free to submit an issue or pull request. Make sure to follow the project's code style and guidelines.
 
-## Learn More
+## License
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+The "psychodevs-webservicing-portfolio-react" repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code for personal and commercial purposes.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contact
 
-### Code Splitting
+For any inquiries or further information, please reach out to Psychodevs via email at [freelanceranik1879@gmail.com](mailto:freelanceranik1879@gmail.com).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+We hope you enjoy exploring the Psychodevs Web Servicing Portfolio and find inspiration for your own web development projects. Happy coding!
