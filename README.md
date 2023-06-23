@@ -3,8 +3,7 @@
 Welcome to the Psychodevs Web Servicing Portfolio repository! This repository showcases Psychodevs' expertise in web servicing and front-end development using React, Bootstrap, and Material-UI. The portfolio website is designed to be visually appealing, and responsive, and highlight Psychodevs' skills in creating stunning user interfaces.
 
 ## Live Website
-
-Check out the live version of the portfolio website [here]([https://md-aniks.github.io/psychodevs-webservicing-portfolio-react/]).
+Check out the live version of the portfolio website [here](https://md-aniks.github.io/psychodevs-webservicing-portfolio-react/).
 
 ## Features
 
