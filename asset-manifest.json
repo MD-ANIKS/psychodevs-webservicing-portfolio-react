@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/psychodevs-webservicing-portfolio-react/static/css/main.31549a92.css",
-    "main.js": "/psychodevs-webservicing-portfolio-react/static/js/main.81c89622.js",
+    "main.js": "/psychodevs-webservicing-portfolio-react/static/js/main.40af7cf7.js",
     "static/js/787.e403dcb9.chunk.js": "/psychodevs-webservicing-portfolio-react/static/js/787.e403dcb9.chunk.js",
     "static/media/marketing.jpg": "/psychodevs-webservicing-portfolio-react/static/media/marketing.d6cd2aac981302e5efa7.jpg",
     "static/media/software.jpg": "/psychodevs-webservicing-portfolio-react/static/media/software.afe35beae57e02f9ddfd.jpg",
@@ -14,11 +14,11 @@
     "static/media/envelope.png": "/psychodevs-webservicing-portfolio-react/static/media/envelope.2f13d397a30953a55baf.png",
     "index.html": "/psychodevs-webservicing-portfolio-react/index.html",
     "main.31549a92.css.map": "/psychodevs-webservicing-portfolio-react/static/css/main.31549a92.css.map",
-    "main.81c89622.js.map": "/psychodevs-webservicing-portfolio-react/static/js/main.81c89622.js.map",
+    "main.40af7cf7.js.map": "/psychodevs-webservicing-portfolio-react/static/js/main.40af7cf7.js.map",
     "787.e403dcb9.chunk.js.map": "/psychodevs-webservicing-portfolio-react/static/js/787.e403dcb9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31549a92.css",
-    "static/js/main.81c89622.js"
+    "static/js/main.40af7cf7.js"
   ]
 }
