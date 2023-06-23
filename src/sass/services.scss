@@ -1,0 +1,13 @@
+#services{
+
+  width: 100%;
+  min-height: 75vh;
+  margin-top: 15vh;
+
+  & .card-img-top{
+    height: 35vh;
+    object-fit: cover;
+  }
+
+
+}

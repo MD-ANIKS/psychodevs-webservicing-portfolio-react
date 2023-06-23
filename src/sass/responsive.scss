@@ -1,0 +1,38 @@
+@media  screen and (max-width: 768px) {
+
+
+  #header {
+
+    & h1{
+      font-size: 27px;
+      margin: 0 0 10px 0;
+      font-weight: 500;
+      color: black;
+    }
+    & h2{
+      font-size: 19px;
+    }
+
+    #contact, #services {
+      margin-top: 12vh;
+    }
+
+    #contact{
+
+      & .form-group{
+        & textarea{
+          padding: 12px 18px;
+        }
+        & .input-icon{
+          top: 28%;
+          left: 8%;
+          font-size: 20px;
+        }      
+
+      }
+
+    }
+
+  }
+
+}

@@ -1,0 +1,19 @@
+
+.navbar{
+
+  &-brand{
+    font-size: 1.9rem !important;
+    font-weight: 500;
+    letter-spacing: 1px;
+  }
+
+  & a:hover{
+    color: $brand_color !important;
+  }
+
+  & .active{
+    font-weight: bold !important;
+    color: $brand_color !important;
+  }
+
+}
